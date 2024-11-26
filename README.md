@@ -1,4 +1,7 @@
-Documentation is included in the **Documentation** folder
+# Documentation
+
+## Documentation is included in the Documentation folder
+
 # REFrameWork Template
 
 ## Robotic Enterprise Framework
